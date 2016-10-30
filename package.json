@@ -1,0 +1,26 @@
+{
+  "name": "armor-gpg-key",
+  "version": "1.0.0",
+  "description": "Very simple tool for making base64 encoded keys armored by inserting special headers information into it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxenko/armor-gpg-key.git"
+  },
+  "keywords": [
+    "gpg",
+    "armor",
+    "pgp",
+    "github",
+    "keys"
+  ],
+  "author": "Svetlana Linuxenko <linuxenko@yahoo.com> (http://www.linuxenko.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linuxenko/armor-gpg-key/issues"
+  },
+  "homepage": "https://github.com/linuxenko/armor-gpg-key#readme"
+}
